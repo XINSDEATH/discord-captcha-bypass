@@ -3,7 +3,8 @@
 
 **use bypass.py to bypass any captcha, for example**:
 
-```import requests, fade, time, httx
+```
+import requests, fade, time, httx
 
 headers = None
 for i in range(15):
