@@ -5,7 +5,7 @@
 
 ```
 import requests, fade, time, httx
-
+capmonsterkey  = ""
 headers = None
 for i in range(15):
             try:
